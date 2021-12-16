@@ -1,0 +1,11 @@
+Server 1:
+user: production
+password: Appliedhi2021
+
+User:
+user: dba
+password: 2021
+
+Server 2:
+user: replica
+password: Appliedhi2021 
