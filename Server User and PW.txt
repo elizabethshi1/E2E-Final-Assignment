@@ -1,4 +1,4 @@
-Server 1:
+Server 1: production@40.121.198.137
 user: production
 password: Appliedhi2021
 
@@ -6,6 +6,6 @@ User:
 user: dba
 password: 2021
 
-Server 2:
+Server 2: replica@52.191.194.105
 user: replica
 password: Appliedhi2021 
